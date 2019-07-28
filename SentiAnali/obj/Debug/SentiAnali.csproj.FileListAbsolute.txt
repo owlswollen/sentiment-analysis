@@ -1,0 +1,21 @@
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\SentiAnali.exe.config
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\SentiAnali.exe
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\SentiAnali.pdb
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\Nuve.dll
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\Nuve.Test.dll
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\nunit.framework.dll
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\Nuve.Test.pdb
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\nunit.framework.xml
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\obj\Debug\SentiAnali.csprojResolveAssemblyReference.cache
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\obj\Debug\SentiAnali.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\obj\Debug\SentiAnali.csproj.CopyComplete
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\obj\Debug\SentiAnali.exe
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\obj\Debug\SentiAnali.pdb
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\NZemberek.dll
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\log4net.dll
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\Iesi.Collections.Generic.dll
+C:\Users\Gokce\Desktop\SentiAnali\SentiAnali\bin\Debug\Iesi.Collections.dll
+C:\Users\Gokce\Documents\courses\3\donem2\BIL3102 Metin ve Web Madenciligine Giris\odev\SentiAnali\SentiAnali\obj\Debug\SentiAnali.csprojResolveAssemblyReference.cache
+C:\Users\Gokce\Documents\courses\3\donem2\BIL3102 Metin ve Web Madenciligine Giris\odev\SentiAnali\SentiAnali\obj\Debug\SentiAnali.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Documents\courses\3\donem2\BIL3102 Metin ve Web Madenciligine Giris\odev\SentiAnali\SentiAnali\obj\Debug\SentiAnali.exe
+C:\Users\Gokce\Documents\courses\3\donem2\BIL3102 Metin ve Web Madenciligine Giris\odev\SentiAnali\SentiAnali\obj\Debug\SentiAnali.pdb
